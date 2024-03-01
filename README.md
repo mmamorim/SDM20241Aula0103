@@ -10,3 +10,17 @@ Passos utilizados para a construção deste projeto Nodejs
 ~~~
 git clone https://github.com/mmamorim/SDM20241Aula0103.git
 ~~~
+
+3. Abrir pasta no VSCode
+4. Abrir terminal
+5. rodar comando para criar o arquivo package.json
+
+~~~
+npm init
+~~~
+
+6. Para executar 
+
+~~~
+node main.js
+~~~
